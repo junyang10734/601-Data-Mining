@@ -1,0 +1,30 @@
+number of length-1 frequent itemsets: 109
+{'G1_Up': 69, 'G3_Down': 50, 'G4_Up': 50, 'G6_Up': 66, 'G9_Down': 50, 'G12_Up': 54, 'G13_Down': 68, 'G15_Down': 56, 'G16_Down': 58, 'G17_Up': 55, 'G19_Down': 53, 'G21_Up': 62, 'G22_Up': 55, 'G23_Up': 54, 'G24_Down': 63, 'G28_Down': 71, 'G29_Down': 52, 'G34_Down': 56, 'G35_Down': 53, 'G39_Up': 51, 'G42_Down': 52, 'G43_Down': 50, 'G44_Down': 58, 'G45_Up': 58, 'G46_Down': 52, 'G48_Up': 57, 'G50_Down': 50, 'G51_Down': 56, 'G52_Down': 65, 'G53_Down': 50, 'G55_Up': 55, 'G57_Down': 51, 'G58_Down': 64, 'G59_Up': 76, 'G61_Down': 51, 'G62_Down': 53, 'G63_Up': 50, 'G64_Down': 50, 'G66_Up': 59, 'G69_Down': 62, 'G72_Up': 74, 'G73_Down': 52, 'G76_Down': 62, 'G77_Up': 58, 'G79_Down': 52, 'G82_Down': 68, 'G83_Up': 50, 'G84_Up': 54, 'G86_Down': 54, 'G93_Up': 53, 'G96_Down': 71, 'G97_Down': 61, 'G99_Up': 56, 'G100_Down': 53, 'G2_Down': 66, 'G3_Up': 50, 'G4_Down': 50, 'G5_Up': 54, 'G7_Down': 51, 'G14_Up': 52, 'G20_Down': 53, 'G26_Up': 52, 'G27_Up': 51, 'G30_Down': 56, 'G36_Up': 61, 'G37_Up': 56, 'G38_Down': 73, 'G47_Up': 66, 'G49_Down': 52, 'G50_Up': 50, 'G54_Up': 67, 'G56_Up': 51, 'G60_Up': 54, 'G63_Down': 50, 'G65_Down': 61, 'G74_Down': 53, 'G75_Up': 57, 'G78_Up': 59, 'G81_Up': 58, 'G83_Down': 50, 'G85_Down': 51, 'G87_Up': 67, 'G88_Down': 71, 'G89_Up': 59, 'G95_Down': 60, 'G8_Up': 66, 'G9_Up': 50, 'G11_Down': 57, 'G18_Down': 53, 'G25_Up': 57, 'G32_Down': 68, 'G43_Up': 50, 'G53_Up': 50, 'G68_Down': 61, 'G70_Down': 66, 'G71_Up': 58, 'G90_Up': 52, 'G91_Up': 65, 'G98_Up': 51, 'G31_Up': 51, 'G40_Down': 53, 'G94_Up': 62, 'G10_Down': 70, 'G33_Down': 51, 'G41_Down': 64, 'G80_Down': 64, 'G64_Up': 50, 'G67_Up': 62, 'G92_Down': 53}
+number of length-2 frequent itemsets: 63
+{'G1_Up G59_Up': 53, 'G1_Up G72_Up': 52, 'G1_Up G38_Down': 54, 'G1_Up G54_Up': 50, 'G1_Up G70_Down': 50, 'G1_Up G10_Down': 50, 'G1_Up G67_Up': 50, 'G6_Up G13_Down': 50, 'G6_Up G28_Down': 50, 'G6_Up G59_Up': 51, 'G6_Up G38_Down': 50, 'G6_Up G32_Down': 50, 'G13_Down G28_Down': 50, 'G13_Down G59_Up': 54, 'G13_Down G72_Up': 53, 'G13_Down G82_Down': 51, 'G24_Down G54_Up': 50, 'G24_Down G88_Down': 50, 'G28_Down G52_Down': 52, 'G28_Down G59_Up': 51, 'G28_Down G2_Down': 50, 'G28_Down G38_Down': 55, 'G28_Down G47_Up': 51, 'G28_Down G87_Up': 52, 'G28_Down G88_Down': 52, 'G28_Down G32_Down': 50, 'G28_Down G10_Down': 51, 'G28_Down G41_Down': 51, 'G52_Down G38_Down': 55, 'G59_Up G72_Up': 62, 'G59_Up G82_Down': 57, 'G59_Up G96_Down': 61, 'G59_Up G38_Down': 53, 'G59_Up G87_Up': 51, 'G59_Up G88_Down': 55, 'G59_Up G32_Down': 52, 'G59_Up G10_Down': 50, 'G72_Up G82_Down': 58, 'G72_Up G96_Down': 59, 'G72_Up G97_Down': 51, 'G72_Up G38_Down': 51, 'G72_Up G32_Down': 50, 'G82_Down G96_Down': 52, 'G82_Down G97_Down': 51, 'G2_Down G38_Down': 50, 'G38_Down G47_Up': 54, 'G38_Down G65_Down': 50, 'G38_Down G88_Down': 50, 'G38_Down G32_Down': 53, 'G38_Down G70_Down': 54, 'G38_Down G91_Up': 53, 'G38_Down G94_Up': 51, 'G38_Down G10_Down': 53, 'G38_Down G41_Down': 50, 'G38_Down G67_Up': 51, 'G47_Up G10_Down': 51, 'G54_Up G88_Down': 52, 'G87_Up G88_Down': 54, 'G88_Down G8_Up': 51, 'G88_Down G10_Down': 52, 'G88_Down G41_Down': 52, 'G70_Down G10_Down': 50, 'G94_Up G10_Down': 50}
+number of length-3 frequent itemsets: 2
+{'G59_Up G72_Up G82_Down': 52, 'G59_Up G72_Up G96_Down': 51}
+Total number of frequent itemsets: 174
+number of rules is 117
+
+Template1
+asso_rule.template1("RULE", "ANY", ['G59_UP'])			26
+asso_rule.template1("RULE", "NONE", ['G59_UP']) 		91
+asso_rule.template1("RULE", 1, ['G59_UP', 'G10_Down'])	40
+asso_rule.template1("HEAD", "ANY", ['G59_UP'])			9
+asso_rule.template1("HEAD", "NONE", ['G59_UP'])			108
+asso_rule.template1("HEAD", 1, ['G59_UP', 'G10_Down'])	17
+asso_rule.template1("BODY", "ANY", ['G59_UP'])			17
+asso_rule.template1("BODY", "NONE", ['G59_UP'])			100
+asso_rule.template1("BODY", 1, ['G59_UP', 'G10_Down'])	24
+Template2
+asso_rule.template2("RULE", 3)	9
+asso_rule.template2("HEAD", 2)	6
+asso_rule.template2("BODY", 1)	117
+Template3
+asso_rule.template3("1or1", "HEAD", "ANY", ['G10_Down'], "BODY", 1, ['G59_UP'])		24
+asso_rule.template3("1and1", "HEAD", "ANY", ['G10_Down'], "BODY", 1, ['G59_UP'])	1
+asso_rule.template3("1or2", "HEAD", "ANY", ['G10_Down'], "BODY", 2)					11
+asso_rule.template3("1and2", "HEAD", "ANY", ['G10_Down'], "BODY", 2)				0
+asso_rule.template3("2or2", "HEAD", 1, "BODY", 2)									117
+asso_rule.template3("2and2", "HEAD", 1, "BODY", 2)									3
